@@ -1,4 +1,4 @@
-package storm.starter;
+package storm.sand;
 
 import backtype.storm.Config;
 import backtype.storm.LocalCluster;

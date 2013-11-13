@@ -1,4 +1,4 @@
-package storm.starter.bolt;
+package storm.sand.bolt;
 
 import backtype.storm.tuple.Tuple;
 import org.apache.log4j.Logger;

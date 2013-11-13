@@ -1,4 +1,4 @@
-package storm.starter.util;
+package storm.sand.util;
 
 import backtype.storm.Constants;
 import backtype.storm.tuple.Tuple;

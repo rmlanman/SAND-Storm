@@ -1,4 +1,4 @@
-package storm.starter.spout;
+package storm.sand.spout;
 
 import backtype.storm.spout.SpoutOutputCollector;
 import backtype.storm.task.TopologyContext;

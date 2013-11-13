@@ -1,4 +1,4 @@
-package storm.starter.bolt;
+package storm.sand.bolt;
 
 import backtype.storm.Config;
 import backtype.storm.topology.BasicOutputCollector;
